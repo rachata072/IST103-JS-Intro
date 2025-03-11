@@ -1,5 +1,7 @@
-const computer = [
-    "computer is the one of host."
-];
+window.alert("Hello World");
 
-console.log("My computer:",computer);
+const StringVar = "Trey";
+let IntVar = 27;
+
+console.log("Person name is " + StringVar + "\nMy Age is " + IntVar);
+
